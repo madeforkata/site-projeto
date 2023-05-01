@@ -1,0 +1,76 @@
+body{
+    color: whitesmoke;
+    background-color: #e25655; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+}
+
+ul{ 
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+    margin-left: 0%;
+}
+ul > li{
+    margin: 15px;
+}
+
+ul > li > a{
+    color:white;
+}
+
+header img{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: 7px solid #ff3632;
+}
+
+.img{
+    text-align: center;
+}
+
+h1{
+    color: #a30c09;
+}
+h3{
+    color: #a30c09;
+}
+footer img{
+    width: 50px;
+    height: 50px;
+}
+
+footer a{
+    margin: 30px;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 2px;
+}
+
+.referencias{
+    padding: 10px 50px;
+}
+
+nav a{
+    font-size: 20px;
+}
+
+button{
+    color: black;
+    background-color: gainsboro;
+
+}
+p{
+    color: white;
+}
+
+.baixo{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+}
